@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/BraveCoders/",
+    "build": "vite build --base=/js_108_LazyStudent23/",
     "preview": "vite preview"
   },
   "devDependencies": {
